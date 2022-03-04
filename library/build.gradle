@@ -1,0 +1,9 @@
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter'
+}
+
+// start: To tell Gradle to not build an executable jar for the Library project
+bootJar { enabled = false }
+
+jar { enabled = true }
+// end: To tell Gradle to not build an executable jar for the Library project
