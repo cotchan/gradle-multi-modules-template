@@ -1,6 +1,6 @@
 ## gradle-multi-modules-template
 
-- gradle 기반 멀티 모듈 template
+- 스프링부트와 Gradle을 이용한 Multi Module 템플릿
 
 ---
 
