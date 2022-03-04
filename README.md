@@ -34,3 +34,4 @@
 - 참고
   - https://github.com/sangwoo0727/multi-modules-template
   - [Creating a Multi Module Project](https://spring.io/guides/gs/multi-module/) 
+  - [멀티 모듈 적용하기 with Gradle](https://tecoble.techcourse.co.kr/post/2021-09-06-multi-module/)
